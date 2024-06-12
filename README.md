@@ -1,3 +1,3 @@
 # Practice_demo
-This is Repo for learning Git and GitHub  Commands
-Author Pritish 
+This is Repo for learning Git and GitHub  Commands.
+Author:- Pritish 
